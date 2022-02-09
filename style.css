@@ -1,6 +1,17 @@
 body {
     background-color:black;
     font-family: Montserrat;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36;
+}
+
+p {
+    font-weight: 300;
+    font-size: 18px;
 }
 
 .navbar {
@@ -45,6 +56,7 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin-bottom: -350px;
 }
 
 .jumbotron {
@@ -72,4 +84,16 @@ nav {
 
 .hero-section {
     margin-top: 15%;
+}
+
+.description {
+    padding-right: 20px;
+    
+}
+
+
+
+.verticalLine {
+    border-left: thin solid white;
+    padding-left: 40px;
 }
