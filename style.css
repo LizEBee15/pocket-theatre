@@ -129,3 +129,16 @@ nav {
 .subHeadings {
     font-size: 24px;
 }
+
+#problemCont {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.softHeading {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-size: 36px;
+}
