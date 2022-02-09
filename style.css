@@ -142,3 +142,19 @@ nav {
     font-weight: 300;
     font-size: 36px;
 }
+
+#opportunity {
+    background-color: #01506B;
+    height: 580px;
+}
+
+.topOp {
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.bottomOp {
+    text-align: center;
+    margin-top: 5%;
+    padding: 80px;
+}
