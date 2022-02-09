@@ -97,3 +97,35 @@ nav {
     border-left: thin solid white;
     padding-left: 40px;
 }
+
+#problem {
+    margin-top: 100px;
+    background-image: url(../GitHub/images/problemBackground.png);
+    background-position: center;
+    background-size: cover;
+    height: 590px;
+}
+
+.topProblem {
+    padding-left: 80px;
+    padding-top: 50px;
+}
+
+.headings {
+    font-weight: bold;
+}
+
+.middleProblem {
+    padding-left: 80px;
+    padding-top: 60px;
+}
+
+.bottomProblem {
+ margin-top: 30px;
+ padding-right: 80px;
+
+}
+
+.subHeadings {
+    font-size: 24px;
+}
